@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+header{
+    font-family: italic;
+    font-size: large;
+    text-align: center;
+    color: black;
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-image: url(muniba2.png);
+
+}
+.main .left{
+    display: flex;
+}
+.main .left #para{
+    height: 20vh;
+    width: 50vw;
+    padding-left: 5px;
+   
+}
+.left img{
+    padding: 2px;
+    margin: 2px;
+    border: 2px solid brown;
+    height: 35vh;
+    width: 45vw;
+}
+.main .center{
+       background-image: url(muniba5.jpg);
+       height: 40vh;
+       width: 30%;
+       color: burlywood;
+       text-align: left;
+       padding-top: 10%;
+    
+}
+
+.main .right {
+    background-image: url(muniba1.jpg);
+    height: 28vh;
+    width: 52%;
+    color: #fff;
+    text-align: left;
+    padding-top: 20%;
+
+}
+
+
+

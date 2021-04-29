@@ -1,0 +1,17 @@
+.container{
+    width: 100%;
+    padding: 2px;
+    border: 2px solid green;
+
+}
+
+#heading{
+    font-size:bold;
+    font-family: sans-serif;
+    
+    border: 5px solid blue;
+}
+.text{
+    color: red;
+    font: bolder;
+}
