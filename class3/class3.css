@@ -1,22 +1,23 @@
 .two{
 position: relative;
-top: 40px;
+top: 90px;
 background-color: blue;
 }
 .three{
     position: absolute;
-    left: 30px;
+    left: 400px;
+    top: 700px;
     background-color: brown;
 }
 .four{
     position: fixed;
-    top: 100px;
+    top: 350px;
     background-color: burlywood;
 }
 .five{
     position: sticky;
-    left: 500px;
-    top:500px;
+    
+    top:650px;
     background-color: cornflowerblue;
 }
 h1{
