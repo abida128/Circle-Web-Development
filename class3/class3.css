@@ -1,0 +1,21 @@
+.two{
+position: relative;
+top: 40px;
+background-color: blue;
+}
+.three{
+    position: absolute;
+    left: 30px;
+    background-color: brown;
+}
+.four{
+    position: fixed;
+    top: 100px;
+    background-color: burlywood;
+}
+.five{
+    position: sticky;
+    left: 100px;
+    top:200px;
+    background-color: cornflowerblue;
+}
