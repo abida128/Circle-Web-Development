@@ -1,0 +1,19 @@
+div p{
+    background-color: brown;
+    text-align: center;
+}
+div> p{
+     background-color: cadetblue;
+     
+}
+div ~ p{
+    background-color: coral;
+}
+div + p{
+    background-color: crimson;
+    font-size: bolder;
+}
+div .e p{
+    background-color: rgb(58, 8, 58);
+    color: darkred;
+}
