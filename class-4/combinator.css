@@ -3,7 +3,7 @@ div p{
     text-align: center;
 }
 div> p{
-     background-color: cadetblue;
+     background-color: rgb(111, 217, 221);
 
      
 }
@@ -13,8 +13,13 @@ div ~ p{
 div + p{
     background-color: crimson;
     font-size: bolder;
+    font-family: sans-serif;
 }
-div .fourth p{
+.third-div span p{
+    font-size: 32px;
+    background-color: blue;
+}
+div .fourth-div p{
     background-color: rgb(58, 8, 58);
     color: darkred;
 }
