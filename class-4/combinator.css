@@ -4,6 +4,7 @@ div p{
 }
 div> p{
      background-color: cadetblue;
+
      
 }
 div ~ p{
@@ -13,7 +14,7 @@ div + p{
     background-color: crimson;
     font-size: bolder;
 }
-div .e p{
+div .fourth p{
     background-color: rgb(58, 8, 58);
     color: darkred;
 }
