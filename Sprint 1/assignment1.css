@@ -9,7 +9,7 @@ header{
     color: black;
    
 }
-body{
+.main{
     background-image: url(muniba2.png);
     
     
@@ -46,7 +46,7 @@ body{
     background-image: url(muniba1.jpg);
     height: 30vh;
     width: 50%;
-    color:#fff;
+    color:rgb(209, 14, 145);
     padding-top: 20%;
     text-align: left;
     position: relative;
@@ -58,6 +58,7 @@ body{
     font-size: bolder;
     color:maroon;
     padding-left: 40px;
+
     
 }
 

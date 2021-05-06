@@ -1,0 +1,13 @@
+.text{
+    font-family:sans-serif;
+    background-color: honeydew;
+}
+.msg{
+   font-family: 'Itim', cursive;
+   background-color: lightblue;
+}
+.content{
+   font-family: 'Roboto', sans-serif;
+   background-color: lightskyblue;
+
+}

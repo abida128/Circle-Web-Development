@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+
+}
+.left{
+    background-color: blue;
+    float: left;
+    margin: 10px;
+    padding-left: 200px;
+
+}
+.right{
+    background-color: green;
+    float: right;
+    margin: 10px;
+    padding-left: 200px;
+}
