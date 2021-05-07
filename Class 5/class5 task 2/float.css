@@ -1,0 +1,14 @@
+.left{
+    background-color: blue;
+    float: left;
+    
+
+}
+.right{
+    background-color: green;
+    float: right;
+   
+}
+.end{
+    background-color: red;
+}
