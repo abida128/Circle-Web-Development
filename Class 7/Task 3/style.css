@@ -1,0 +1,30 @@
+.grid-container{
+    background-color: gray;
+    padding: 10px;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: auto auto auto auto;
+   
+    
+
+}
+/*.grid-container > div{
+    width: 200px;
+    height: 100px;
+}*/
+@media screen and (max-width: 1024px){
+    .left{
+        background-color: green;
+    }
+}
+@media screen and (min-width:768px) and (max-width:1023px) {
+    .right{
+        background-color: indigo;
+
+    }
+}
+@media screen and (max-width: 767px){
+    .end{
+        background-color: red;
+    }
+}
