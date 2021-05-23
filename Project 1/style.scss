@@ -48,6 +48,7 @@ header{
 .second-div{
     display: flex;
     background: maroon;
+    margin: 5px;
     
 }
 .about{
@@ -135,6 +136,8 @@ header{
         margin: 50px;
         font-size: bolder;
         text-decoration:none;
+
+
         ul{
             text-decoration: none;
             display: flex;
@@ -149,6 +152,8 @@ header{
             background-color: rgb(131, 95, 60);
             color:black;
             margin: 10px;
+            padding-left: 15px;
+            margin-left: 20px;
          
         
     }
